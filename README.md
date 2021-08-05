@@ -1,11 +1,12 @@
-TITLE - Image Slider Carousel REACT
+TITLE - Infinite Image Gallery React
 
-About - Image Slider Carousel with arrow buttons and nice css slide effect.
+About - Image gallery that uses Unsplash API to fetch infinite amount of images when user scrolls the page.
+There is also a search option for images.
 
 TECHNOLOGIES USED:
 
 - HTML5
-- Google Fonts
+- Font Awesome
 - CSS3
-- JavaScript REACT
+- JavaScript REACT with React Masonry and React Infinite Scroll npm's
 - Git
