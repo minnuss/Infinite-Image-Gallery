@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Infinite-Image-Gallery/static/css/main.901da171.chunk.css",
+    "main.js": "/Infinite-Image-Gallery/static/js/main.8d03f6b7.chunk.js",
+    "main.js.map": "/Infinite-Image-Gallery/static/js/main.8d03f6b7.chunk.js.map",
+    "runtime-main.js": "/Infinite-Image-Gallery/static/js/runtime-main.4706429b.js",
+    "runtime-main.js.map": "/Infinite-Image-Gallery/static/js/runtime-main.4706429b.js.map",
+    "static/js/2.8e687a33.chunk.js": "/Infinite-Image-Gallery/static/js/2.8e687a33.chunk.js",
+    "static/js/2.8e687a33.chunk.js.map": "/Infinite-Image-Gallery/static/js/2.8e687a33.chunk.js.map",
+    "index.html": "/Infinite-Image-Gallery/index.html",
+    "static/css/main.901da171.chunk.css.map": "/Infinite-Image-Gallery/static/css/main.901da171.chunk.css.map",
+    "static/js/2.8e687a33.chunk.js.LICENSE.txt": "/Infinite-Image-Gallery/static/js/2.8e687a33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4706429b.js",
+    "static/js/2.8e687a33.chunk.js",
+    "static/css/main.901da171.chunk.css",
+    "static/js/main.8d03f6b7.chunk.js"
+  ]
+}
