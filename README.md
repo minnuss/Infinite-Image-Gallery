@@ -1,4 +1,4 @@
-TITLE - Infinite Image Gallery React
+#TITLE - Infinite Image Gallery React
 
 About - Image gallery that uses Unsplash API to fetch infinite amount of images when user scrolls the page.
 There is also a search option for images.
